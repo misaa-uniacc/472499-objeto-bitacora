@@ -9,7 +9,7 @@
 
 ## Mi primera imagen
 
-```
+```md
 ///En la sintaxis hay que incluir
 ///signo de exclamación
 ///paréntesis cuadrado con texto alternativo
